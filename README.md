@@ -8,7 +8,7 @@
 
 ## Quick start
 
-1. Open the calculator you want on [calcupia.com](https://calcupia.com/).
+1. Open the calculator you want on calcupia.com.
 2. Scroll to **Embed this calculator** and click **Copy code**.
 3. Paste the code into your page (see the platform notes below).
 
